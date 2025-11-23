@@ -1,8 +1,7 @@
 # MoPro — Low-Fidelity Flutter Prototype
 
 Ringkasan
-- Proyek Flutter yang mengimplementasikan desain low-fidelity (wireframe) dari tugas Mobile Programming.
-- Fokus pada layout, placeholder, dan navigasi antar-halaman — bukan fitur backend atau logika bisnis.
+- Proyek Flutter yang mengimplementasikan desain low-fidelity (wireframe).
 
 Fitur
 - 4 halaman low-fi: `Splash` ( `/` ), `Home` ( `/home` ), `Dashboard` ( `/dashboard` ), `Detail` ( `/detail` )
